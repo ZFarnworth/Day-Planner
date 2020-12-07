@@ -1,17 +1,12 @@
 # Day Planner
-
+A tool to help plan your workday
 
 ## Link
-https://github.com/ZFarnworth/Day-Planner
-
+Repo: https://github.com/ZFarnworth/Day-Planner
+Live Repo: https://zfarnworth.github.io/Day-Planner/
 
 ## Instructions
+Add your daily calendar to the items
 
-
-## Author
+## Co-Author
 Built By Zac Farnworth
-
-## Features
-
-
-## Visual
