@@ -2,7 +2,7 @@
 
 ## Description
 
-An application built with Node and the NPM Inquirer. Used to quickly create readme files by creating the markdown.
+An application built with Node and the NPM inquirer, Built to quickly create readme files by creating the markdown.
 
 ## Table of Contents (Optional)
 
@@ -15,11 +15,11 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-Node and Inquirer (NPM)
+node (NPM)
 
 ## Usage
 
-to create a professional README for any current/future developer projects
+used to make a professional README for any current developer projects
 
 ## Credits
 
@@ -31,10 +31,8 @@ MIT
 
 ## Badges
 
-N/A
+NPM
 
 ## Contributing
-
-Any preference
 
 ## Tests
